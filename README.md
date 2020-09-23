@@ -1,8 +1,6 @@
 # Project sort
 
-> Dedicated project to test what I'm learning with PHP. 
-
-Projeto de ordenação de resultados com conexão ao banco de dados
+Results sorting project with connection to the database
 
 `Web preview`
 
