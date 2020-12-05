@@ -69,4 +69,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 5. Create a new _Pull Request_
 
 **After your pull request is merged**, you can safely delete your branch.
+
 ---
