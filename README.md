@@ -54,7 +54,7 @@ For the project to work you must download the file `project_sort.sql` inside the
 
 ## 📝 Meta
 
-Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – devgabrieldejesus@gmail.com
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
