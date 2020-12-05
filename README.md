@@ -40,7 +40,7 @@ or download the zip from the green button at the beginning of the repository
 
 **Note:** To run this project you must have a basic knowledge of how to run PHP and MySQL projects on your machine
 
-## 💻 Configuration for Development
+## 💻 Configuration for development
 
 For the project to work you must download the file `project_sort.sql` inside the folder `database` after that create a table in your MySQL database with the name of `project_sort` and import the file that you downloaded the `project_sort.sql` within your created database.
 
@@ -69,5 +69,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 5. Create a new _Pull Request_
 
 **After your pull request is merged**, you can safely delete your branch.
-
 ---
