@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #f7f8fc;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding-top: 106px;
+}
+
+.container {
+  width: 1175px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  flex-direction: column;
+}
+
+main .top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
+
+main .top h1 {
+  font-size: 34px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+main form select {
+  height: 60px;
+  width: 215px;
+  cursor: pointer;
+  color: #292b35;
+  font-size: 24px;
+  border-radius: 4px;
+  padding-left: 30px;
+  border: 2px solid #20b882;
+}
+
+main table {
+  width: 100%;
+  border-radius: 5px 5px 0px 0px;
+}
+
+table thead {
+  color: #fff;
+  font-size: 26px;
+  text-align: left;
+  font-weight: 700;
+}
+
+table thead tr {
+  height: 60px;
+  background: #20b882;
+}
+
+table thead tr th {
+  padding-left: 30px;
+}
+
+table tbody tr {
+  height: 60px;
+  font-size: 24px;
+  font-weight: 400;
+  border-radius: 4px;
+  background: #fff;
+  margin-bottom: 5px;
+  box-shadow: 0px 10px 10px #f0f1f640;
+}
+
+table tbody tr td {
+  padding-left: 30px;
+}
+
+@media (max-width: 1175px) {
+  .container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 730px) {
+  main {
+    padding-top: 60px;
+  }
+  main .top {
+    flex-direction: column;
+  }
+
+  main .top h1 {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  main .top h1 {
+    font-size: 28px;
+  }
+
+  main form select {
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 10px;
+  }
+
+  table thead {
+    font-size: 20px;
+  }
+
+  table tbody tr {
+    font-size: 18px;
+  }
+}
