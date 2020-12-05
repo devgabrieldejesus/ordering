@@ -67,6 +67,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
 4. _Push_ (`git push origin my-new-feature`)
 5. Create a new _Pull Request_
-   **After your pull request is merged**, you can safely delete your branch.
+
+**After your pull request is merged**, you can safely delete your branch.
 
 ---
