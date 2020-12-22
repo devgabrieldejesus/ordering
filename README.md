@@ -29,7 +29,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/gabrieldejesus/github_explorer
+git clone https://github.com/gabrieldejesus/ordering
 ```
 
 or download the zip from the green button at the beginning of the repository
